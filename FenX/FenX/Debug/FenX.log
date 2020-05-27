@@ -1,0 +1,19 @@
+﻿  FenX.cpp
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(414): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(435): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(436): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(437): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(462): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(463): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(464): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(489): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(490): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(491): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(170): warning C4102: “zuichudeqidian”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(256): warning C4102: “zhuliyajihe”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(341): warning C4102: “mandeboji”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(405): warning C4102: “disanzhe”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(423): warning C4102: “meiguihua”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(449): warning C4102: “yuan”: 未引用的标签
+c:\users\22757\source\repos\fenx\fenx\fenx.cpp(475): warning C4102: “luoxuanxian”: 未引用的标签
+  FenX.vcxproj -> C:\Users\22757\source\repos\FenX\Debug\FenX.exe
